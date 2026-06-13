@@ -1,0 +1,12 @@
+{
+  "dataset_size": 5572,
+  "train_size": 4457,
+  "test_size": 1115,
+  "model_accuracies": {
+    "Naive Bayes": 97.58,
+    "Logistic Regression": 97.31,
+    "Linear SVM": 98.39
+  },
+  "best_model": "Linear SVM",
+  "best_accuracy": 98.39
+}
